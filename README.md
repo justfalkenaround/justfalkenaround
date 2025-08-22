@@ -5,28 +5,32 @@
 I started **Inexstinct** to explore how research and development can help us **achieve more**—through experimentation, learning, and pushing ideas into practice.  
 
 This GitHub isn’t about polished products. It’s where I keep side projects, prototypes, and experiments. Some work, some break, all teach me something.  
+Each project here reflects a different step in my **educational journey as a builder**.
 
 ---
 
 ## 🚀 Featured Projects
 
 - 🎮 **[roid](https://github.com/justfalkenaround/roid)**  
-  A small 3D **WebGL2 game engine + demo**, optimized for **touch and mobile**.  
-  - Written from scratch in **JavaScript + WebGL2**  
-  - Simple physics & collision system  
-  - Gesture controls for mobile  
+  *Learning systems and graphics programming.*  
+  A 3D **WebGL2 game engine + demo**, built from scratch. This was my way of understanding **low-level rendering, input handling, and collision systems**.  
+  - Written in **JavaScript + WebGL2**  
+  - Experiments with physics and performance optimizations  
+  - Designed for touch + mobile devices  
 
 - 💘 **[wingman](https://github.com/justfalkenaround/wingman)**  
-  A **MERN + AI experiment** in matchmaking, powered by TensorFlow.js.  
-  - **MongoDB + Express + React + Node** backend/frontend  
+  *Learning full-stack development and applied AI.*  
+  A **MERN + TensorFlow.js experiment** in matchmaking. This project helped me practice **building and scaling a full web app**, while also exploring **machine learning directly in the browser**.  
+  - **MongoDB + Express + React + Node** architecture  
   - Real-time chat with **Socket.IO**  
-  - TensorFlow.js for in-browser ML  
-  - JWT + BCrypt for authentication  
+  - ML-based recommendations with **TensorFlow.js**  
+  - Authentication & security with **JWT + BCrypt**  
 
 - 📚 **[oop-there-it-is](https://github.com/justfalkenaround/oop-there-it-is)**  
-  A small tutorial series on **OOP, animation, and game design**.  
-  - Explains OOP with examples  
-  - Ends with a simple game project (*The Last Mile*)  
+  *Learning and teaching fundamentals.*  
+  A tutorial series on **object-oriented programming, animation, and game design**. Built as a way to **practice explaining concepts while coding**, it closes with *The Last Mile* game project.  
+  - Breaks down OOP concepts with practical examples  
+  - Uses games as a teaching medium  
 
 ---
 
