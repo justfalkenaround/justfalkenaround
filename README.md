@@ -1,6 +1,6 @@
 # 👋 Falken Brown
 
-### Founder @ Inexstinct • Engineer • Curious Builder
+### Founder @ Inexstinct • Engineer
 
 I started **Inexstinct** to explore how research and development can help us **achieve more**—through experimentation, learning, and pushing ideas into practice.  
 
@@ -55,7 +55,6 @@ Each project here reflects a different step in my **educational journey as a bui
 ## 📫 Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/falkenbrown/)  
-- 🐦 Twitter: [@justfalkenaround](https://twitter.com/justfalkenaround)  
 - 💻 [GitHub](https://github.com/justfalkenaround)  
 
 ---
