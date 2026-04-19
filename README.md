@@ -2,10 +2,7 @@
 
 ### Founder @ Inexstinct • Engineer
 
-I started **Inexstinct** to explore how research and development can help us **achieve more**—through experimentation, learning, and pushing ideas into practice.  
-
-This GitHub isn’t about polished products. It’s where I keep side projects, prototypes, and experiments. Some work, some break, all teach me something.  
-Each project here reflects a different step in my **educational journey as a builder**.
+This GitHub isn’t about polished products. This is a combination of professional, educational, and personal projects.
 
 ---
 
@@ -56,7 +53,3 @@ Each project here reflects a different step in my **educational journey as a bui
 
 - [LinkedIn](https://www.linkedin.com/in/falkenbrown/)  
 - [GitHub](https://github.com/justfalkenaround)  
-
----
-
-⚡ *At Inexstinct, the focus is impact. Here, it’s practice and exploration.*
